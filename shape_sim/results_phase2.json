@@ -1,0 +1,2216 @@
+{
+  "experiment": "multidimensional_shape_equations_phase2",
+  "config": {
+    "cycles": 30,
+    "interactions": 80,
+    "dim": 4
+  },
+  "results": {
+    "cube": {
+      "stats_timeline": [
+        {
+          "step": 64,
+          "num_shapes": 75,
+          "grade_distribution": {
+            "0": 2,
+            "1": 22,
+            "2": 42,
+            "3": 9
+          },
+          "avg_magnitude": 0.6836438324959597,
+          "max_magnitude": 1.8240002658559753,
+          "avg_entropy": 1.1091244289543765,
+          "num_anomalies": 106,
+          "anomaly_types": {
+            "structural_novelty": 61,
+            "grade_transition": 25,
+            "complexity_spike": 20
+          },
+          "container": "cube",
+          "cycle": 0
+        },
+        {
+          "step": 259,
+          "num_shapes": 270,
+          "grade_distribution": {
+            "0": 4,
+            "1": 65,
+            "2": 165,
+            "3": 36
+          },
+          "avg_magnitude": 0.5408023745362782,
+          "max_magnitude": 2.0643989177423734,
+          "avg_entropy": 1.260081622650739,
+          "num_anomalies": 377,
+          "anomaly_types": {
+            "structural_novelty": 251,
+            "grade_transition": 88,
+            "complexity_spike": 38
+          },
+          "container": "cube",
+          "cycle": 3
+        },
+        {
+          "step": 453,
+          "num_shapes": 464,
+          "grade_distribution": {
+            "0": 4,
+            "1": 94,
+            "2": 300,
+            "3": 66
+          },
+          "avg_magnitude": 0.4634534716822917,
+          "max_magnitude": 2.0643989177423734,
+          "avg_entropy": 1.2880320992941494,
+          "num_anomalies": 632,
+          "anomaly_types": {
+            "structural_novelty": 445,
+            "grade_transition": 137,
+            "complexity_spike": 50
+          },
+          "container": "cube",
+          "cycle": 6
+        },
+        {
+          "step": 648,
+          "num_shapes": 659,
+          "grade_distribution": {
+            "0": 4,
+            "1": 125,
+            "2": 439,
+            "3": 91
+          },
+          "avg_magnitude": 0.42853899548839025,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.2957470786294398,
+          "num_anomalies": 884,
+          "anomaly_types": {
+            "structural_novelty": 639,
+            "grade_transition": 187,
+            "complexity_spike": 58
+          },
+          "container": "cube",
+          "cycle": 9
+        },
+        {
+          "step": 842,
+          "num_shapes": 853,
+          "grade_distribution": {
+            "0": 4,
+            "1": 149,
+            "2": 574,
+            "3": 126
+          },
+          "avg_magnitude": 0.41037569242396527,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3054671850876154,
+          "num_anomalies": 1142,
+          "anomaly_types": {
+            "structural_novelty": 832,
+            "grade_transition": 244,
+            "complexity_spike": 66
+          },
+          "container": "cube",
+          "cycle": 12
+        },
+        {
+          "step": 1029,
+          "num_shapes": 1040,
+          "grade_distribution": {
+            "0": 4,
+            "1": 180,
+            "2": 710,
+            "3": 145,
+            "4": 1
+          },
+          "avg_magnitude": 0.38766071206100694,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.310341079203187,
+          "num_anomalies": 1386,
+          "anomaly_types": {
+            "structural_novelty": 1019,
+            "grade_transition": 297,
+            "complexity_spike": 70
+          },
+          "container": "cube",
+          "cycle": 15
+        },
+        {
+          "step": 1217,
+          "num_shapes": 1228,
+          "grade_distribution": {
+            "0": 4,
+            "1": 201,
+            "2": 849,
+            "3": 173,
+            "4": 1
+          },
+          "avg_magnitude": 0.3724450562709953,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3136428336775718,
+          "num_anomalies": 1634,
+          "anomaly_types": {
+            "structural_novelty": 1207,
+            "grade_transition": 352,
+            "complexity_spike": 75
+          },
+          "container": "cube",
+          "cycle": 18
+        },
+        {
+          "step": 1401,
+          "num_shapes": 1412,
+          "grade_distribution": {
+            "0": 4,
+            "1": 233,
+            "2": 977,
+            "3": 197,
+            "4": 1
+          },
+          "avg_magnitude": 0.3651799165478104,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3162165160757817,
+          "num_anomalies": 1871,
+          "anomaly_types": {
+            "structural_novelty": 1390,
+            "grade_transition": 397,
+            "complexity_spike": 84
+          },
+          "container": "cube",
+          "cycle": 21
+        },
+        {
+          "step": 1599,
+          "num_shapes": 1610,
+          "grade_distribution": {
+            "0": 4,
+            "1": 269,
+            "2": 1111,
+            "3": 225,
+            "4": 1
+          },
+          "avg_magnitude": 0.35525296583069815,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3180157216956145,
+          "num_anomalies": 2138,
+          "anomaly_types": {
+            "structural_novelty": 1588,
+            "grade_transition": 460,
+            "complexity_spike": 90
+          },
+          "container": "cube",
+          "cycle": 24
+        },
+        {
+          "step": 1795,
+          "num_shapes": 1806,
+          "grade_distribution": {
+            "0": 4,
+            "1": 306,
+            "2": 1243,
+            "3": 252,
+            "4": 1
+          },
+          "avg_magnitude": 0.3456360209448779,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3213336889947536,
+          "num_anomalies": 2385,
+          "anomaly_types": {
+            "structural_novelty": 1784,
+            "grade_transition": 509,
+            "complexity_spike": 92
+          },
+          "container": "cube",
+          "cycle": 27
+        },
+        {
+          "step": 1928,
+          "num_shapes": 1939,
+          "grade_distribution": {
+            "0": 4,
+            "1": 324,
+            "2": 1335,
+            "3": 275,
+            "4": 1
+          },
+          "avg_magnitude": 0.33992067877735965,
+          "max_magnitude": 2.2244262102812646,
+          "avg_entropy": 1.3226225935208995,
+          "num_anomalies": 2561,
+          "anomaly_types": {
+            "structural_novelty": 1917,
+            "grade_transition": 550,
+            "complexity_spike": 94
+          },
+          "container": "cube",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 106,
+          "types": {
+            "structural_novelty": 61,
+            "grade_transition": 25,
+            "complexity_spike": 20
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 377,
+          "types": {
+            "structural_novelty": 251,
+            "grade_transition": 88,
+            "complexity_spike": 38
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 632,
+          "types": {
+            "structural_novelty": 445,
+            "grade_transition": 137,
+            "complexity_spike": 50
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 884,
+          "types": {
+            "structural_novelty": 639,
+            "grade_transition": 187,
+            "complexity_spike": 58
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1142,
+          "types": {
+            "structural_novelty": 832,
+            "grade_transition": 244,
+            "complexity_spike": 66
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1386,
+          "types": {
+            "structural_novelty": 1019,
+            "grade_transition": 297,
+            "complexity_spike": 70
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1634,
+          "types": {
+            "structural_novelty": 1207,
+            "grade_transition": 352,
+            "complexity_spike": 75
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1871,
+          "types": {
+            "structural_novelty": 1390,
+            "grade_transition": 397,
+            "complexity_spike": 84
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2138,
+          "types": {
+            "structural_novelty": 1588,
+            "grade_transition": 460,
+            "complexity_spike": 90
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2385,
+          "types": {
+            "structural_novelty": 1784,
+            "grade_transition": 509,
+            "complexity_spike": 92
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2561,
+          "types": {
+            "structural_novelty": 1917,
+            "grade_transition": 550,
+            "complexity_spike": 94
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1928,
+        "num_shapes": 1939,
+        "grade_distribution": {
+          "0": 4,
+          "1": 324,
+          "2": 1335,
+          "3": 275,
+          "4": 1
+        },
+        "avg_magnitude": 0.33992067877735965,
+        "max_magnitude": 2.2244262102812646,
+        "avg_entropy": 1.3226225935208995,
+        "num_anomalies": 2561,
+        "anomaly_types": {
+          "structural_novelty": 1917,
+          "grade_transition": 550,
+          "complexity_spike": 94
+        },
+        "container": "cube"
+      },
+      "energy_distribution": {
+        "0": 0.2672552203055299,
+        "1": 0.5018692829405597,
+        "2": 0.23087549675391036,
+        "3": 0.0,
+        "4": 0.0
+      }
+    },
+    "sphere": {
+      "stats_timeline": [
+        {
+          "step": 68,
+          "num_shapes": 79,
+          "grade_distribution": {
+            "0": 2,
+            "1": 14,
+            "2": 56,
+            "3": 7
+          },
+          "avg_magnitude": 0.6699893033013286,
+          "max_magnitude": 1.6587587371788857,
+          "avg_entropy": 1.110696915533167,
+          "num_anomalies": 118,
+          "anomaly_types": {
+            "structural_novelty": 66,
+            "grade_transition": 23,
+            "complexity_spike": 29
+          },
+          "container": "sphere",
+          "cycle": 0
+        },
+        {
+          "step": 270,
+          "num_shapes": 281,
+          "grade_distribution": {
+            "0": 2,
+            "1": 42,
+            "2": 205,
+            "3": 32
+          },
+          "avg_magnitude": 0.4606242100515617,
+          "max_magnitude": 1.6587587371788857,
+          "avg_entropy": 1.268711631990706,
+          "num_anomalies": 400,
+          "anomaly_types": {
+            "structural_novelty": 268,
+            "grade_transition": 74,
+            "complexity_spike": 58
+          },
+          "container": "sphere",
+          "cycle": 3
+        },
+        {
+          "step": 463,
+          "num_shapes": 474,
+          "grade_distribution": {
+            "0": 3,
+            "1": 69,
+            "2": 341,
+            "3": 61
+          },
+          "avg_magnitude": 0.4003112496308623,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.293538116157651,
+          "num_anomalies": 656,
+          "anomaly_types": {
+            "structural_novelty": 460,
+            "grade_transition": 127,
+            "complexity_spike": 69
+          },
+          "container": "sphere",
+          "cycle": 6
+        },
+        {
+          "step": 652,
+          "num_shapes": 663,
+          "grade_distribution": {
+            "0": 3,
+            "1": 98,
+            "2": 470,
+            "3": 92
+          },
+          "avg_magnitude": 0.3681380674001225,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3044349215181668,
+          "num_anomalies": 905,
+          "anomaly_types": {
+            "structural_novelty": 649,
+            "grade_transition": 181,
+            "complexity_spike": 75
+          },
+          "container": "sphere",
+          "cycle": 9
+        },
+        {
+          "step": 847,
+          "num_shapes": 858,
+          "grade_distribution": {
+            "0": 3,
+            "1": 122,
+            "2": 617,
+            "3": 116
+          },
+          "avg_magnitude": 0.34792035040810604,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.310463317963351,
+          "num_anomalies": 1153,
+          "anomaly_types": {
+            "structural_novelty": 844,
+            "grade_transition": 227,
+            "complexity_spike": 82
+          },
+          "container": "sphere",
+          "cycle": 12
+        },
+        {
+          "step": 1035,
+          "num_shapes": 1046,
+          "grade_distribution": {
+            "0": 3,
+            "1": 150,
+            "2": 750,
+            "3": 143
+          },
+          "avg_magnitude": 0.33384340014570013,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.314309606035005,
+          "num_anomalies": 1407,
+          "anomaly_types": {
+            "structural_novelty": 1032,
+            "grade_transition": 289,
+            "complexity_spike": 86
+          },
+          "container": "sphere",
+          "cycle": 15
+        },
+        {
+          "step": 1221,
+          "num_shapes": 1232,
+          "grade_distribution": {
+            "0": 3,
+            "1": 177,
+            "2": 874,
+            "3": 178
+          },
+          "avg_magnitude": 0.3197684493843538,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3198292528698121,
+          "num_anomalies": 1654,
+          "anomaly_types": {
+            "structural_novelty": 1218,
+            "grade_transition": 343,
+            "complexity_spike": 93
+          },
+          "container": "sphere",
+          "cycle": 18
+        },
+        {
+          "step": 1415,
+          "num_shapes": 1426,
+          "grade_distribution": {
+            "0": 3,
+            "1": 205,
+            "2": 1014,
+            "3": 204
+          },
+          "avg_magnitude": 0.30630906651456735,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3243152346786575,
+          "num_anomalies": 1900,
+          "anomaly_types": {
+            "structural_novelty": 1412,
+            "grade_transition": 390,
+            "complexity_spike": 98
+          },
+          "container": "sphere",
+          "cycle": 21
+        },
+        {
+          "step": 1609,
+          "num_shapes": 1620,
+          "grade_distribution": {
+            "0": 4,
+            "1": 241,
+            "2": 1150,
+            "3": 225
+          },
+          "avg_magnitude": 0.2961724706829095,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3252625631477477,
+          "num_anomalies": 2155,
+          "anomaly_types": {
+            "structural_novelty": 1606,
+            "grade_transition": 447,
+            "complexity_spike": 102
+          },
+          "container": "sphere",
+          "cycle": 24
+        },
+        {
+          "step": 1804,
+          "num_shapes": 1815,
+          "grade_distribution": {
+            "0": 4,
+            "1": 269,
+            "2": 1285,
+            "3": 257
+          },
+          "avg_magnitude": 0.28699435982215227,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3261561268470867,
+          "num_anomalies": 2417,
+          "anomaly_types": {
+            "structural_novelty": 1801,
+            "grade_transition": 508,
+            "complexity_spike": 108
+          },
+          "container": "sphere",
+          "cycle": 27
+        },
+        {
+          "step": 1934,
+          "num_shapes": 1945,
+          "grade_distribution": {
+            "0": 4,
+            "1": 292,
+            "2": 1369,
+            "3": 280
+          },
+          "avg_magnitude": 0.2830631706188846,
+          "max_magnitude": 2.025170107538498,
+          "avg_entropy": 1.3263265024729254,
+          "num_anomalies": 2586,
+          "anomaly_types": {
+            "structural_novelty": 1931,
+            "grade_transition": 547,
+            "complexity_spike": 108
+          },
+          "container": "sphere",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 118,
+          "types": {
+            "structural_novelty": 66,
+            "grade_transition": 23,
+            "complexity_spike": 29
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 400,
+          "types": {
+            "structural_novelty": 268,
+            "grade_transition": 74,
+            "complexity_spike": 58
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 656,
+          "types": {
+            "structural_novelty": 460,
+            "grade_transition": 127,
+            "complexity_spike": 69
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 905,
+          "types": {
+            "structural_novelty": 649,
+            "grade_transition": 181,
+            "complexity_spike": 75
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1153,
+          "types": {
+            "structural_novelty": 844,
+            "grade_transition": 227,
+            "complexity_spike": 82
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1407,
+          "types": {
+            "structural_novelty": 1032,
+            "grade_transition": 289,
+            "complexity_spike": 86
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1654,
+          "types": {
+            "structural_novelty": 1218,
+            "grade_transition": 343,
+            "complexity_spike": 93
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1900,
+          "types": {
+            "structural_novelty": 1412,
+            "grade_transition": 390,
+            "complexity_spike": 98
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2155,
+          "types": {
+            "structural_novelty": 1606,
+            "grade_transition": 447,
+            "complexity_spike": 102
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2417,
+          "types": {
+            "structural_novelty": 1801,
+            "grade_transition": 508,
+            "complexity_spike": 108
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2586,
+          "types": {
+            "structural_novelty": 1931,
+            "grade_transition": 547,
+            "complexity_spike": 108
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1934,
+        "num_shapes": 1945,
+        "grade_distribution": {
+          "0": 4,
+          "1": 292,
+          "2": 1369,
+          "3": 280
+        },
+        "avg_magnitude": 0.2830631706188846,
+        "max_magnitude": 2.025170107538498,
+        "avg_entropy": 1.3263265024729254,
+        "num_anomalies": 2586,
+        "anomaly_types": {
+          "structural_novelty": 1931,
+          "grade_transition": 547,
+          "complexity_spike": 108
+        },
+        "container": "sphere"
+      },
+      "energy_distribution": {
+        "0": 0.07743108467914696,
+        "1": 0.4513888980571873,
+        "2": 0.47118001726366576,
+        "3": 0.0,
+        "4": 0.0
+      }
+    },
+    "ellipsoid": {
+      "stats_timeline": [
+        {
+          "step": 65,
+          "num_shapes": 76,
+          "grade_distribution": {
+            "0": 1,
+            "1": 14,
+            "2": 50,
+            "3": 11
+          },
+          "avg_magnitude": 0.6008483041813895,
+          "max_magnitude": 1.4971371612756594,
+          "avg_entropy": 1.0915080003896274,
+          "num_anomalies": 105,
+          "anomaly_types": {
+            "grade_transition": 19,
+            "structural_novelty": 65,
+            "complexity_spike": 21
+          },
+          "container": "ellipsoid",
+          "cycle": 0
+        },
+        {
+          "step": 246,
+          "num_shapes": 257,
+          "grade_distribution": {
+            "0": 1,
+            "1": 51,
+            "2": 165,
+            "3": 40
+          },
+          "avg_magnitude": 0.4195012001204182,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.2603612728613744,
+          "num_anomalies": 375,
+          "anomaly_types": {
+            "grade_transition": 81,
+            "structural_novelty": 246,
+            "complexity_spike": 48
+          },
+          "container": "ellipsoid",
+          "cycle": 3
+        },
+        {
+          "step": 438,
+          "num_shapes": 449,
+          "grade_distribution": {
+            "0": 1,
+            "1": 83,
+            "2": 290,
+            "3": 75
+          },
+          "avg_magnitude": 0.36927503066101064,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.2871927079374346,
+          "num_anomalies": 652,
+          "anomaly_types": {
+            "grade_transition": 150,
+            "structural_novelty": 437,
+            "complexity_spike": 65
+          },
+          "container": "ellipsoid",
+          "cycle": 6
+        },
+        {
+          "step": 634,
+          "num_shapes": 645,
+          "grade_distribution": {
+            "0": 1,
+            "1": 106,
+            "2": 435,
+            "3": 103
+          },
+          "avg_magnitude": 0.3354561836016696,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.303155148158851,
+          "num_anomalies": 912,
+          "anomaly_types": {
+            "grade_transition": 200,
+            "structural_novelty": 633,
+            "complexity_spike": 79
+          },
+          "container": "ellipsoid",
+          "cycle": 9
+        },
+        {
+          "step": 827,
+          "num_shapes": 838,
+          "grade_distribution": {
+            "0": 1,
+            "1": 135,
+            "2": 569,
+            "3": 133
+          },
+          "avg_magnitude": 0.31395541585706954,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.3078310891229201,
+          "num_anomalies": 1174,
+          "anomaly_types": {
+            "grade_transition": 261,
+            "structural_novelty": 826,
+            "complexity_spike": 87
+          },
+          "container": "ellipsoid",
+          "cycle": 12
+        },
+        {
+          "step": 1018,
+          "num_shapes": 1029,
+          "grade_distribution": {
+            "0": 1,
+            "1": 158,
+            "2": 707,
+            "3": 163
+          },
+          "avg_magnitude": 0.29476336353801924,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.3125057587249689,
+          "num_anomalies": 1416,
+          "anomaly_types": {
+            "grade_transition": 307,
+            "structural_novelty": 1017,
+            "complexity_spike": 92
+          },
+          "container": "ellipsoid",
+          "cycle": 15
+        },
+        {
+          "step": 1204,
+          "num_shapes": 1215,
+          "grade_distribution": {
+            "0": 1,
+            "1": 186,
+            "2": 842,
+            "3": 186
+          },
+          "avg_magnitude": 0.2823726591637286,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.3154765839819158,
+          "num_anomalies": 1661,
+          "anomaly_types": {
+            "grade_transition": 361,
+            "structural_novelty": 1203,
+            "complexity_spike": 97
+          },
+          "container": "ellipsoid",
+          "cycle": 18
+        },
+        {
+          "step": 1393,
+          "num_shapes": 1404,
+          "grade_distribution": {
+            "0": 1,
+            "1": 211,
+            "2": 975,
+            "3": 217
+          },
+          "avg_magnitude": 0.272315929876792,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.3203079257172503,
+          "num_anomalies": 1915,
+          "anomaly_types": {
+            "grade_transition": 416,
+            "structural_novelty": 1392,
+            "complexity_spike": 107
+          },
+          "container": "ellipsoid",
+          "cycle": 21
+        },
+        {
+          "step": 1587,
+          "num_shapes": 1598,
+          "grade_distribution": {
+            "0": 1,
+            "1": 249,
+            "2": 1103,
+            "3": 245
+          },
+          "avg_magnitude": 0.2614154299459971,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.3228409117487534,
+          "num_anomalies": 2170,
+          "anomaly_types": {
+            "grade_transition": 474,
+            "structural_novelty": 1586,
+            "complexity_spike": 110
+          },
+          "container": "ellipsoid",
+          "cycle": 24
+        },
+        {
+          "step": 1775,
+          "num_shapes": 1786,
+          "grade_distribution": {
+            "0": 1,
+            "1": 277,
+            "2": 1225,
+            "3": 283
+          },
+          "avg_magnitude": 0.25280866835591465,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.322574262659666,
+          "num_anomalies": 2410,
+          "anomaly_types": {
+            "grade_transition": 523,
+            "structural_novelty": 1774,
+            "complexity_spike": 113
+          },
+          "container": "ellipsoid",
+          "cycle": 27
+        },
+        {
+          "step": 1899,
+          "num_shapes": 1910,
+          "grade_distribution": {
+            "0": 1,
+            "1": 290,
+            "2": 1318,
+            "3": 301
+          },
+          "avg_magnitude": 0.24789853324691435,
+          "max_magnitude": 1.5032330646825565,
+          "avg_entropy": 1.323543823278021,
+          "num_anomalies": 2570,
+          "anomaly_types": {
+            "grade_transition": 559,
+            "structural_novelty": 1898,
+            "complexity_spike": 113
+          },
+          "container": "ellipsoid",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 105,
+          "types": {
+            "grade_transition": 19,
+            "structural_novelty": 65,
+            "complexity_spike": 21
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 375,
+          "types": {
+            "grade_transition": 81,
+            "structural_novelty": 246,
+            "complexity_spike": 48
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 652,
+          "types": {
+            "grade_transition": 150,
+            "structural_novelty": 437,
+            "complexity_spike": 65
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 912,
+          "types": {
+            "grade_transition": 200,
+            "structural_novelty": 633,
+            "complexity_spike": 79
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1174,
+          "types": {
+            "grade_transition": 261,
+            "structural_novelty": 826,
+            "complexity_spike": 87
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1416,
+          "types": {
+            "grade_transition": 307,
+            "structural_novelty": 1017,
+            "complexity_spike": 92
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1661,
+          "types": {
+            "grade_transition": 361,
+            "structural_novelty": 1203,
+            "complexity_spike": 97
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1915,
+          "types": {
+            "grade_transition": 416,
+            "structural_novelty": 1392,
+            "complexity_spike": 107
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2170,
+          "types": {
+            "grade_transition": 474,
+            "structural_novelty": 1586,
+            "complexity_spike": 110
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2410,
+          "types": {
+            "grade_transition": 523,
+            "structural_novelty": 1774,
+            "complexity_spike": 113
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2570,
+          "types": {
+            "grade_transition": 559,
+            "structural_novelty": 1898,
+            "complexity_spike": 113
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1899,
+        "num_shapes": 1910,
+        "grade_distribution": {
+          "0": 1,
+          "1": 290,
+          "2": 1318,
+          "3": 301
+        },
+        "avg_magnitude": 0.24789853324691435,
+        "max_magnitude": 1.5032330646825565,
+        "avg_entropy": 1.323543823278021,
+        "num_anomalies": 2570,
+        "anomaly_types": {
+          "grade_transition": 559,
+          "structural_novelty": 1898,
+          "complexity_spike": 113
+        },
+        "container": "ellipsoid"
+      },
+      "energy_distribution": {
+        "0": 0.0697494046482286,
+        "1": 0.2788404832283238,
+        "2": 0.6514101121234477,
+        "3": 0.0,
+        "4": 0.0
+      }
+    },
+    "torus": {
+      "stats_timeline": [
+        {
+          "step": 63,
+          "num_shapes": 74,
+          "grade_distribution": {
+            "0": 1,
+            "1": 13,
+            "2": 48,
+            "3": 12
+          },
+          "avg_magnitude": 0.560685877375838,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.1084960986164731,
+          "num_anomalies": 98,
+          "anomaly_types": {
+            "structural_novelty": 62,
+            "grade_transition": 20,
+            "complexity_spike": 16
+          },
+          "container": "torus",
+          "cycle": 0
+        },
+        {
+          "step": 250,
+          "num_shapes": 261,
+          "grade_distribution": {
+            "0": 1,
+            "1": 53,
+            "2": 172,
+            "3": 35
+          },
+          "avg_magnitude": 0.3912549308545249,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.2572271771135326,
+          "num_anomalies": 375,
+          "anomaly_types": {
+            "structural_novelty": 249,
+            "grade_transition": 82,
+            "complexity_spike": 44
+          },
+          "container": "torus",
+          "cycle": 3
+        },
+        {
+          "step": 448,
+          "num_shapes": 459,
+          "grade_distribution": {
+            "0": 1,
+            "1": 91,
+            "2": 298,
+            "3": 69
+          },
+          "avg_magnitude": 0.33911634543230856,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.294936104364194,
+          "num_anomalies": 664,
+          "anomaly_types": {
+            "structural_novelty": 446,
+            "grade_transition": 156,
+            "complexity_spike": 62
+          },
+          "container": "torus",
+          "cycle": 6
+        },
+        {
+          "step": 645,
+          "num_shapes": 656,
+          "grade_distribution": {
+            "0": 1,
+            "1": 128,
+            "2": 441,
+            "3": 86
+          },
+          "avg_magnitude": 0.3084877044992964,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3092154096416466,
+          "num_anomalies": 927,
+          "anomaly_types": {
+            "structural_novelty": 643,
+            "grade_transition": 210,
+            "complexity_spike": 74
+          },
+          "container": "torus",
+          "cycle": 9
+        },
+        {
+          "step": 844,
+          "num_shapes": 855,
+          "grade_distribution": {
+            "0": 1,
+            "1": 152,
+            "2": 578,
+            "3": 124
+          },
+          "avg_magnitude": 0.2875268140200821,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3138653630146042,
+          "num_anomalies": 1184,
+          "anomaly_types": {
+            "structural_novelty": 841,
+            "grade_transition": 262,
+            "complexity_spike": 81
+          },
+          "container": "torus",
+          "cycle": 12
+        },
+        {
+          "step": 1034,
+          "num_shapes": 1045,
+          "grade_distribution": {
+            "0": 1,
+            "1": 177,
+            "2": 711,
+            "3": 156
+          },
+          "avg_magnitude": 0.27298522463895664,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3176147712801956,
+          "num_anomalies": 1435,
+          "anomaly_types": {
+            "structural_novelty": 1031,
+            "grade_transition": 311,
+            "complexity_spike": 93
+          },
+          "container": "torus",
+          "cycle": 15
+        },
+        {
+          "step": 1230,
+          "num_shapes": 1241,
+          "grade_distribution": {
+            "0": 1,
+            "1": 203,
+            "2": 845,
+            "3": 191,
+            "4": 1
+          },
+          "avg_magnitude": 0.26068935795216486,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3184272935723704,
+          "num_anomalies": 1691,
+          "anomaly_types": {
+            "structural_novelty": 1227,
+            "grade_transition": 367,
+            "complexity_spike": 97
+          },
+          "container": "torus",
+          "cycle": 18
+        },
+        {
+          "step": 1426,
+          "num_shapes": 1437,
+          "grade_distribution": {
+            "0": 1,
+            "1": 228,
+            "2": 983,
+            "3": 224,
+            "4": 1
+          },
+          "avg_magnitude": 0.24876486216731508,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3212641727013317,
+          "num_anomalies": 1940,
+          "anomaly_types": {
+            "structural_novelty": 1423,
+            "grade_transition": 417,
+            "complexity_spike": 100
+          },
+          "container": "torus",
+          "cycle": 21
+        },
+        {
+          "step": 1626,
+          "num_shapes": 1637,
+          "grade_distribution": {
+            "0": 1,
+            "1": 262,
+            "2": 1118,
+            "3": 255,
+            "4": 1
+          },
+          "avg_magnitude": 0.24146801577979066,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3235663351140003,
+          "num_anomalies": 2202,
+          "anomaly_types": {
+            "structural_novelty": 1623,
+            "grade_transition": 474,
+            "complexity_spike": 105
+          },
+          "container": "torus",
+          "cycle": 24
+        },
+        {
+          "step": 1812,
+          "num_shapes": 1823,
+          "grade_distribution": {
+            "0": 1,
+            "1": 287,
+            "2": 1253,
+            "3": 281,
+            "4": 1
+          },
+          "avg_magnitude": 0.23517975507059016,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3243447192025648,
+          "num_anomalies": 2438,
+          "anomaly_types": {
+            "structural_novelty": 1809,
+            "grade_transition": 518,
+            "complexity_spike": 111
+          },
+          "container": "torus",
+          "cycle": 27
+        },
+        {
+          "step": 1941,
+          "num_shapes": 1952,
+          "grade_distribution": {
+            "0": 1,
+            "1": 312,
+            "2": 1340,
+            "3": 298,
+            "4": 1
+          },
+          "avg_magnitude": 0.23128886288639552,
+          "max_magnitude": 1.5750533301372927,
+          "avg_entropy": 1.3253425123241895,
+          "num_anomalies": 2606,
+          "anomaly_types": {
+            "structural_novelty": 1938,
+            "grade_transition": 553,
+            "complexity_spike": 115
+          },
+          "container": "torus",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 98,
+          "types": {
+            "structural_novelty": 62,
+            "grade_transition": 20,
+            "complexity_spike": 16
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 375,
+          "types": {
+            "structural_novelty": 249,
+            "grade_transition": 82,
+            "complexity_spike": 44
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 664,
+          "types": {
+            "structural_novelty": 446,
+            "grade_transition": 156,
+            "complexity_spike": 62
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 927,
+          "types": {
+            "structural_novelty": 643,
+            "grade_transition": 210,
+            "complexity_spike": 74
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1184,
+          "types": {
+            "structural_novelty": 841,
+            "grade_transition": 262,
+            "complexity_spike": 81
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1435,
+          "types": {
+            "structural_novelty": 1031,
+            "grade_transition": 311,
+            "complexity_spike": 93
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1691,
+          "types": {
+            "structural_novelty": 1227,
+            "grade_transition": 367,
+            "complexity_spike": 97
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1940,
+          "types": {
+            "structural_novelty": 1423,
+            "grade_transition": 417,
+            "complexity_spike": 100
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2202,
+          "types": {
+            "structural_novelty": 1623,
+            "grade_transition": 474,
+            "complexity_spike": 105
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2438,
+          "types": {
+            "structural_novelty": 1809,
+            "grade_transition": 518,
+            "complexity_spike": 111
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2606,
+          "types": {
+            "structural_novelty": 1938,
+            "grade_transition": 553,
+            "complexity_spike": 115
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1941,
+        "num_shapes": 1952,
+        "grade_distribution": {
+          "0": 1,
+          "1": 312,
+          "2": 1340,
+          "3": 298,
+          "4": 1
+        },
+        "avg_magnitude": 0.23128886288639552,
+        "max_magnitude": 1.5750533301372927,
+        "avg_entropy": 1.3253425123241895,
+        "num_anomalies": 2606,
+        "anomaly_types": {
+          "structural_novelty": 1938,
+          "grade_transition": 553,
+          "complexity_spike": 115
+        },
+        "container": "torus"
+      },
+      "energy_distribution": {
+        "0": 0.06383529517313041,
+        "1": 0.3933432303578564,
+        "2": 0.5428214744690132,
+        "3": 0.0,
+        "4": 0.0
+      }
+    },
+    "open": {
+      "stats_timeline": [
+        {
+          "step": 58,
+          "num_shapes": 69,
+          "grade_distribution": {
+            "0": 1,
+            "1": 19,
+            "2": 39,
+            "3": 10
+          },
+          "avg_magnitude": 0.5734097481164782,
+          "max_magnitude": 1.5277694453771697,
+          "avg_entropy": 1.1160204084666387,
+          "num_anomalies": 90,
+          "anomaly_types": {
+            "structural_novelty": 56,
+            "grade_transition": 16,
+            "complexity_spike": 18
+          },
+          "container": "open",
+          "cycle": 0
+        },
+        {
+          "step": 256,
+          "num_shapes": 267,
+          "grade_distribution": {
+            "0": 3,
+            "1": 54,
+            "2": 177,
+            "3": 33
+          },
+          "avg_magnitude": 0.43283684926762483,
+          "max_magnitude": 1.6987171749756185,
+          "avg_entropy": 1.278918388768882,
+          "num_anomalies": 372,
+          "anomaly_types": {
+            "structural_novelty": 253,
+            "grade_transition": 67,
+            "complexity_spike": 52
+          },
+          "container": "open",
+          "cycle": 3
+        },
+        {
+          "step": 444,
+          "num_shapes": 455,
+          "grade_distribution": {
+            "0": 3,
+            "1": 82,
+            "2": 304,
+            "3": 66
+          },
+          "avg_magnitude": 0.38089032177188925,
+          "max_magnitude": 1.7419055450848115,
+          "avg_entropy": 1.303405489491118,
+          "num_anomalies": 627,
+          "anomaly_types": {
+            "structural_novelty": 441,
+            "grade_transition": 119,
+            "complexity_spike": 67
+          },
+          "container": "open",
+          "cycle": 6
+        },
+        {
+          "step": 640,
+          "num_shapes": 651,
+          "grade_distribution": {
+            "0": 3,
+            "1": 123,
+            "2": 437,
+            "3": 87,
+            "4": 1
+          },
+          "avg_magnitude": 0.34550071486590156,
+          "max_magnitude": 1.7419055450848115,
+          "avg_entropy": 1.3114973499121043,
+          "num_anomalies": 892,
+          "anomaly_types": {
+            "structural_novelty": 637,
+            "grade_transition": 172,
+            "complexity_spike": 83
+          },
+          "container": "open",
+          "cycle": 9
+        },
+        {
+          "step": 842,
+          "num_shapes": 853,
+          "grade_distribution": {
+            "0": 3,
+            "1": 157,
+            "2": 573,
+            "3": 119,
+            "4": 1
+          },
+          "avg_magnitude": 0.3216601456986767,
+          "max_magnitude": 1.7419055450848115,
+          "avg_entropy": 1.3189865470043225,
+          "num_anomalies": 1163,
+          "anomaly_types": {
+            "structural_novelty": 839,
+            "grade_transition": 234,
+            "complexity_spike": 90
+          },
+          "container": "open",
+          "cycle": 12
+        },
+        {
+          "step": 1043,
+          "num_shapes": 1054,
+          "grade_distribution": {
+            "0": 5,
+            "1": 188,
+            "2": 716,
+            "3": 144,
+            "4": 1
+          },
+          "avg_magnitude": 0.30414148754600584,
+          "max_magnitude": 1.7419055450848115,
+          "avg_entropy": 1.3232740895655555,
+          "num_anomalies": 1426,
+          "anomaly_types": {
+            "structural_novelty": 1040,
+            "grade_transition": 290,
+            "complexity_spike": 96
+          },
+          "container": "open",
+          "cycle": 15
+        },
+        {
+          "step": 1243,
+          "num_shapes": 1254,
+          "grade_distribution": {
+            "0": 5,
+            "1": 218,
+            "2": 855,
+            "3": 174,
+            "4": 2
+          },
+          "avg_magnitude": 0.29284105635802465,
+          "max_magnitude": 2.175880640556191,
+          "avg_entropy": 1.3253648448252136,
+          "num_anomalies": 1683,
+          "anomaly_types": {
+            "structural_novelty": 1239,
+            "grade_transition": 345,
+            "complexity_spike": 99
+          },
+          "container": "open",
+          "cycle": 18
+        },
+        {
+          "step": 1435,
+          "num_shapes": 1446,
+          "grade_distribution": {
+            "0": 5,
+            "1": 252,
+            "2": 984,
+            "3": 203,
+            "4": 2
+          },
+          "avg_magnitude": 0.28593747363419625,
+          "max_magnitude": 2.175880640556191,
+          "avg_entropy": 1.326560098995275,
+          "num_anomalies": 1934,
+          "anomaly_types": {
+            "structural_novelty": 1431,
+            "grade_transition": 400,
+            "complexity_spike": 103
+          },
+          "container": "open",
+          "cycle": 21
+        },
+        {
+          "step": 1638,
+          "num_shapes": 1649,
+          "grade_distribution": {
+            "0": 5,
+            "1": 285,
+            "2": 1123,
+            "3": 234,
+            "4": 2
+          },
+          "avg_magnitude": 0.2765272495455814,
+          "max_magnitude": 2.175880640556191,
+          "avg_entropy": 1.327985092419107,
+          "num_anomalies": 2196,
+          "anomaly_types": {
+            "structural_novelty": 1634,
+            "grade_transition": 456,
+            "complexity_spike": 106
+          },
+          "container": "open",
+          "cycle": 24
+        },
+        {
+          "step": 1818,
+          "num_shapes": 1829,
+          "grade_distribution": {
+            "0": 6,
+            "1": 313,
+            "2": 1248,
+            "3": 260,
+            "4": 2
+          },
+          "avg_magnitude": 0.2709029194928153,
+          "max_magnitude": 2.175880640556191,
+          "avg_entropy": 1.329366539241008,
+          "num_anomalies": 2428,
+          "anomaly_types": {
+            "structural_novelty": 1814,
+            "grade_transition": 504,
+            "complexity_spike": 110
+          },
+          "container": "open",
+          "cycle": 27
+        },
+        {
+          "step": 1954,
+          "num_shapes": 1965,
+          "grade_distribution": {
+            "0": 6,
+            "1": 336,
+            "2": 1345,
+            "3": 276,
+            "4": 2
+          },
+          "avg_magnitude": 0.26742487188098146,
+          "max_magnitude": 2.175880640556191,
+          "avg_entropy": 1.329658137591056,
+          "num_anomalies": 2610,
+          "anomaly_types": {
+            "structural_novelty": 1950,
+            "grade_transition": 547,
+            "complexity_spike": 113
+          },
+          "container": "open",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 90,
+          "types": {
+            "structural_novelty": 56,
+            "grade_transition": 16,
+            "complexity_spike": 18
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 372,
+          "types": {
+            "structural_novelty": 253,
+            "grade_transition": 67,
+            "complexity_spike": 52
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 627,
+          "types": {
+            "structural_novelty": 441,
+            "grade_transition": 119,
+            "complexity_spike": 67
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 892,
+          "types": {
+            "structural_novelty": 637,
+            "grade_transition": 172,
+            "complexity_spike": 83
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1163,
+          "types": {
+            "structural_novelty": 839,
+            "grade_transition": 234,
+            "complexity_spike": 90
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1426,
+          "types": {
+            "structural_novelty": 1040,
+            "grade_transition": 290,
+            "complexity_spike": 96
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1683,
+          "types": {
+            "structural_novelty": 1239,
+            "grade_transition": 345,
+            "complexity_spike": 99
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1934,
+          "types": {
+            "structural_novelty": 1431,
+            "grade_transition": 400,
+            "complexity_spike": 103
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2196,
+          "types": {
+            "structural_novelty": 1634,
+            "grade_transition": 456,
+            "complexity_spike": 106
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2428,
+          "types": {
+            "structural_novelty": 1814,
+            "grade_transition": 504,
+            "complexity_spike": 110
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2610,
+          "types": {
+            "structural_novelty": 1950,
+            "grade_transition": 547,
+            "complexity_spike": 113
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1954,
+        "num_shapes": 1965,
+        "grade_distribution": {
+          "0": 6,
+          "1": 336,
+          "2": 1345,
+          "3": 276,
+          "4": 2
+        },
+        "avg_magnitude": 0.26742487188098146,
+        "max_magnitude": 2.175880640556191,
+        "avg_entropy": 1.329658137591056,
+        "num_anomalies": 2610,
+        "anomaly_types": {
+          "structural_novelty": 1950,
+          "grade_transition": 547,
+          "complexity_spike": 113
+        },
+        "container": "open"
+      },
+      "energy_distribution": {
+        "0": 0.1338666648107596,
+        "1": 0.35887444673957025,
+        "2": 0.5072588884496703,
+        "3": 0.0,
+        "4": 0.0
+      }
+    },
+    "sinai": {
+      "stats_timeline": [
+        {
+          "step": 59,
+          "num_shapes": 70,
+          "grade_distribution": {
+            "0": 1,
+            "1": 13,
+            "2": 47,
+            "3": 9
+          },
+          "avg_magnitude": 0.6764312708109473,
+          "max_magnitude": 1.785132787266625,
+          "avg_entropy": 1.0510418187200616,
+          "num_anomalies": 89,
+          "anomaly_types": {
+            "structural_novelty": 56,
+            "grade_transition": 16,
+            "complexity_spike": 17
+          },
+          "container": "sinai",
+          "cycle": 0
+        },
+        {
+          "step": 251,
+          "num_shapes": 262,
+          "grade_distribution": {
+            "0": 2,
+            "1": 40,
+            "2": 184,
+            "3": 36
+          },
+          "avg_magnitude": 0.4859025957127702,
+          "max_magnitude": 1.888133566868647,
+          "avg_entropy": 1.2443881882585288,
+          "num_anomalies": 363,
+          "anomaly_types": {
+            "structural_novelty": 245,
+            "grade_transition": 70,
+            "complexity_spike": 48
+          },
+          "container": "sinai",
+          "cycle": 3
+        },
+        {
+          "step": 445,
+          "num_shapes": 456,
+          "grade_distribution": {
+            "0": 2,
+            "1": 75,
+            "2": 318,
+            "3": 61
+          },
+          "avg_magnitude": 0.4236795886113367,
+          "max_magnitude": 1.888133566868647,
+          "avg_entropy": 1.2785553640305498,
+          "num_anomalies": 628,
+          "anomaly_types": {
+            "structural_novelty": 438,
+            "grade_transition": 126,
+            "complexity_spike": 64
+          },
+          "container": "sinai",
+          "cycle": 6
+        },
+        {
+          "step": 638,
+          "num_shapes": 649,
+          "grade_distribution": {
+            "0": 2,
+            "1": 107,
+            "2": 458,
+            "3": 82
+          },
+          "avg_magnitude": 0.3960590652856622,
+          "max_magnitude": 2.1784356739812765,
+          "avg_entropy": 1.2946902480367606,
+          "num_anomalies": 881,
+          "anomaly_types": {
+            "structural_novelty": 630,
+            "grade_transition": 178,
+            "complexity_spike": 73
+          },
+          "container": "sinai",
+          "cycle": 9
+        },
+        {
+          "step": 832,
+          "num_shapes": 843,
+          "grade_distribution": {
+            "0": 3,
+            "1": 141,
+            "2": 583,
+            "3": 116
+          },
+          "avg_magnitude": 0.3749356789985767,
+          "max_magnitude": 2.1784356739812765,
+          "avg_entropy": 1.3027458280710824,
+          "num_anomalies": 1136,
+          "anomaly_types": {
+            "structural_novelty": 824,
+            "grade_transition": 233,
+            "complexity_spike": 79
+          },
+          "container": "sinai",
+          "cycle": 12
+        },
+        {
+          "step": 1027,
+          "num_shapes": 1038,
+          "grade_distribution": {
+            "0": 3,
+            "1": 171,
+            "2": 720,
+            "3": 144
+          },
+          "avg_magnitude": 0.36332865477468307,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.3074107455496062,
+          "num_anomalies": 1394,
+          "anomaly_types": {
+            "structural_novelty": 1018,
+            "grade_transition": 292,
+            "complexity_spike": 84
+          },
+          "container": "sinai",
+          "cycle": 15
+        },
+        {
+          "step": 1216,
+          "num_shapes": 1227,
+          "grade_distribution": {
+            "0": 4,
+            "1": 196,
+            "2": 853,
+            "3": 173,
+            "4": 1
+          },
+          "avg_magnitude": 0.35180405196881115,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.310854542684058,
+          "num_anomalies": 1634,
+          "anomaly_types": {
+            "structural_novelty": 1205,
+            "grade_transition": 341,
+            "complexity_spike": 88
+          },
+          "container": "sinai",
+          "cycle": 18
+        },
+        {
+          "step": 1411,
+          "num_shapes": 1422,
+          "grade_distribution": {
+            "0": 4,
+            "1": 222,
+            "2": 990,
+            "3": 205,
+            "4": 1
+          },
+          "avg_magnitude": 0.34496309550194526,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.313428435053296,
+          "num_anomalies": 1885,
+          "anomaly_types": {
+            "structural_novelty": 1400,
+            "grade_transition": 393,
+            "complexity_spike": 92
+          },
+          "container": "sinai",
+          "cycle": 21
+        },
+        {
+          "step": 1608,
+          "num_shapes": 1619,
+          "grade_distribution": {
+            "0": 4,
+            "1": 245,
+            "2": 1133,
+            "3": 236,
+            "4": 1
+          },
+          "avg_magnitude": 0.33419355812582,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.3141141152411446,
+          "num_anomalies": 2147,
+          "anomaly_types": {
+            "structural_novelty": 1597,
+            "grade_transition": 452,
+            "complexity_spike": 98
+          },
+          "container": "sinai",
+          "cycle": 24
+        },
+        {
+          "step": 1797,
+          "num_shapes": 1808,
+          "grade_distribution": {
+            "0": 4,
+            "1": 274,
+            "2": 1270,
+            "3": 259,
+            "4": 1
+          },
+          "avg_magnitude": 0.32689763217837525,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.314336209339868,
+          "num_anomalies": 2393,
+          "anomaly_types": {
+            "structural_novelty": 1786,
+            "grade_transition": 504,
+            "complexity_spike": 103
+          },
+          "container": "sinai",
+          "cycle": 27
+        },
+        {
+          "step": 1923,
+          "num_shapes": 1934,
+          "grade_distribution": {
+            "0": 4,
+            "1": 291,
+            "2": 1360,
+            "3": 278,
+            "4": 1
+          },
+          "avg_magnitude": 0.3232242448432581,
+          "max_magnitude": 2.6636795029393894,
+          "avg_entropy": 1.3154138057411935,
+          "num_anomalies": 2554,
+          "anomaly_types": {
+            "structural_novelty": 1912,
+            "grade_transition": 538,
+            "complexity_spike": 104
+          },
+          "container": "sinai",
+          "cycle": 29
+        }
+      ],
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "total_anomalies": 89,
+          "types": {
+            "structural_novelty": 56,
+            "grade_transition": 16,
+            "complexity_spike": 17
+          }
+        },
+        {
+          "cycle": 3,
+          "total_anomalies": 363,
+          "types": {
+            "structural_novelty": 245,
+            "grade_transition": 70,
+            "complexity_spike": 48
+          }
+        },
+        {
+          "cycle": 6,
+          "total_anomalies": 628,
+          "types": {
+            "structural_novelty": 438,
+            "grade_transition": 126,
+            "complexity_spike": 64
+          }
+        },
+        {
+          "cycle": 9,
+          "total_anomalies": 881,
+          "types": {
+            "structural_novelty": 630,
+            "grade_transition": 178,
+            "complexity_spike": 73
+          }
+        },
+        {
+          "cycle": 12,
+          "total_anomalies": 1136,
+          "types": {
+            "structural_novelty": 824,
+            "grade_transition": 233,
+            "complexity_spike": 79
+          }
+        },
+        {
+          "cycle": 15,
+          "total_anomalies": 1394,
+          "types": {
+            "structural_novelty": 1018,
+            "grade_transition": 292,
+            "complexity_spike": 84
+          }
+        },
+        {
+          "cycle": 18,
+          "total_anomalies": 1634,
+          "types": {
+            "structural_novelty": 1205,
+            "grade_transition": 341,
+            "complexity_spike": 88
+          }
+        },
+        {
+          "cycle": 21,
+          "total_anomalies": 1885,
+          "types": {
+            "structural_novelty": 1400,
+            "grade_transition": 393,
+            "complexity_spike": 92
+          }
+        },
+        {
+          "cycle": 24,
+          "total_anomalies": 2147,
+          "types": {
+            "structural_novelty": 1597,
+            "grade_transition": 452,
+            "complexity_spike": 98
+          }
+        },
+        {
+          "cycle": 27,
+          "total_anomalies": 2393,
+          "types": {
+            "structural_novelty": 1786,
+            "grade_transition": 504,
+            "complexity_spike": 103
+          }
+        },
+        {
+          "cycle": 29,
+          "total_anomalies": 2554,
+          "types": {
+            "structural_novelty": 1912,
+            "grade_transition": 538,
+            "complexity_spike": 104
+          }
+        }
+      ],
+      "final_stats": {
+        "step": 1923,
+        "num_shapes": 1934,
+        "grade_distribution": {
+          "0": 4,
+          "1": 291,
+          "2": 1360,
+          "3": 278,
+          "4": 1
+        },
+        "avg_magnitude": 0.3232242448432581,
+        "max_magnitude": 2.6636795029393894,
+        "avg_entropy": 1.3154138057411935,
+        "num_anomalies": 2554,
+        "anomaly_types": {
+          "structural_novelty": 1912,
+          "grade_transition": 538,
+          "complexity_spike": 104
+        },
+        "container": "sinai"
+      },
+      "energy_distribution": {
+        "0": 0.12701026880851077,
+        "1": 0.48451647168368556,
+        "2": 0.3884732595078037,
+        "3": 0.0,
+        "4": 0.0
+      }
+    }
+  }
+}

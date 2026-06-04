@@ -1,0 +1,6348 @@
+{
+  "experiment": "multidimensional_shape_equations",
+  "config": {
+    "num_cycles": 50,
+    "interactions_per_cycle": 50
+  },
+  "results": [
+    {
+      "dim": 3,
+      "final_stats": {
+        "step": 739,
+        "num_shapes": 746,
+        "grade_distribution": {
+          "0": 740,
+          "1": 3,
+          "2": 3
+        },
+        "avg_magnitude": 0.00938337801608579,
+        "max_magnitude": 1.0,
+        "avg_grade_entropy": -9.3833787920008e-13,
+        "num_anomalies": 7,
+        "num_grade_transitions": 7,
+        "dominant_grade": 0,
+        "unified_equation_grades": 3,
+        "cycle": "final"
+      },
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 2
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        }
+      ],
+      "stats_timeline": [
+        {
+          "step": 13,
+          "num_shapes": 20,
+          "grade_distribution": {
+            "0": 14,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.35,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -3.500000289416299e-11,
+          "num_anomalies": 5,
+          "num_grade_transitions": 5,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 0
+        },
+        {
+          "step": 77,
+          "num_shapes": 84,
+          "grade_distribution": {
+            "0": 78,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.08333333333333333,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -8.333334022419759e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 5
+        },
+        {
+          "step": 157,
+          "num_shapes": 164,
+          "grade_distribution": {
+            "0": 158,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.042682926829268296,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -4.268293035873535e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 10
+        },
+        {
+          "step": 227,
+          "num_shapes": 234,
+          "grade_distribution": {
+            "0": 228,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.029914529914529916,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.9914532388173493e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 15
+        },
+        {
+          "step": 298,
+          "num_shapes": 305,
+          "grade_distribution": {
+            "0": 299,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.022950819672131147,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.2950821569942943e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 20
+        },
+        {
+          "step": 370,
+          "num_shapes": 377,
+          "grade_distribution": {
+            "0": 371,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.01856763925729443,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.856764079265941e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 25
+        },
+        {
+          "step": 440,
+          "num_shapes": 447,
+          "grade_distribution": {
+            "0": 441,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.015659955257270694,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.5659956552198204e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 30
+        },
+        {
+          "step": 515,
+          "num_shapes": 522,
+          "grade_distribution": {
+            "0": 516,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.013409961685823755,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.3409962794698462e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 35
+        },
+        {
+          "step": 605,
+          "num_shapes": 612,
+          "grade_distribution": {
+            "0": 606,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.011437908496732025,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.1437909442536923e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 40
+        },
+        {
+          "step": 679,
+          "num_shapes": 686,
+          "grade_distribution": {
+            "0": 680,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.01020408163265306,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.0204082476432357e-12,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 45
+        },
+        {
+          "step": 739,
+          "num_shapes": 746,
+          "grade_distribution": {
+            "0": 740,
+            "1": 3,
+            "2": 3
+          },
+          "avg_magnitude": 0.00938337801608579,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -9.3833787920008e-13,
+          "num_anomalies": 7,
+          "num_grade_transitions": 7,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 49
+        }
+      ]
+    },
+    {
+      "dim": 4,
+      "final_stats": {
+        "step": 751,
+        "num_shapes": 762,
+        "grade_distribution": {
+          "0": 752,
+          "1": 4,
+          "2": 6
+        },
+        "avg_magnitude": 0.014435695538057743,
+        "max_magnitude": 1.0,
+        "avg_grade_entropy": -1.443569673175076e-12,
+        "num_anomalies": 9,
+        "num_grade_transitions": 9,
+        "dominant_grade": 0,
+        "unified_equation_grades": 3,
+        "cycle": "final"
+      },
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 2
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 40,
+          "anomalies": 1
+        },
+        {
+          "cycle": 41,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        }
+      ],
+      "stats_timeline": [
+        {
+          "step": 11,
+          "num_shapes": 22,
+          "grade_distribution": {
+            "0": 12,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.5,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -5.0000004134518545e-11,
+          "num_anomalies": 6,
+          "num_grade_transitions": 6,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 0
+        },
+        {
+          "step": 89,
+          "num_shapes": 100,
+          "grade_distribution": {
+            "0": 90,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.11,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.100000090959408e-11,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 5
+        },
+        {
+          "step": 168,
+          "num_shapes": 179,
+          "grade_distribution": {
+            "0": 169,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.061452513966480445,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -6.1452519048011624e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 10
+        },
+        {
+          "step": 247,
+          "num_shapes": 258,
+          "grade_distribution": {
+            "0": 248,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.04263565891472868,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -4.263566244028714e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 15
+        },
+        {
+          "step": 318,
+          "num_shapes": 329,
+          "grade_distribution": {
+            "0": 319,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.03343465045592705,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -3.34346532206507e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 20
+        },
+        {
+          "step": 388,
+          "num_shapes": 399,
+          "grade_distribution": {
+            "0": 389,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.02756892230576441,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.756892458544882e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 25
+        },
+        {
+          "step": 466,
+          "num_shapes": 477,
+          "grade_distribution": {
+            "0": 467,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.023060796645702306,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.3060798552608135e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 30
+        },
+        {
+          "step": 537,
+          "num_shapes": 548,
+          "grade_distribution": {
+            "0": 538,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.020072992700729927,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.007299436057314e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 35
+        },
+        {
+          "step": 624,
+          "num_shapes": 635,
+          "grade_distribution": {
+            "0": 625,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.01732283464566929,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.7322836078100913e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 40
+        },
+        {
+          "step": 698,
+          "num_shapes": 709,
+          "grade_distribution": {
+            "0": 699,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.015514809590973202,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.5514810873898561e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 45
+        },
+        {
+          "step": 751,
+          "num_shapes": 762,
+          "grade_distribution": {
+            "0": 752,
+            "1": 4,
+            "2": 6
+          },
+          "avg_magnitude": 0.014435695538057743,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.443569673175076e-12,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 49
+        }
+      ]
+    },
+    {
+      "dim": 5,
+      "final_stats": {
+        "step": 742,
+        "num_shapes": 758,
+        "grade_distribution": {
+          "0": 742,
+          "1": 5,
+          "2": 10,
+          "3": 1
+        },
+        "avg_magnitude": 0.023070794432140218,
+        "max_magnitude": 1.4876621795622873,
+        "avg_grade_entropy": NaN,
+        "num_anomalies": 15,
+        "num_grade_transitions": 15,
+        "dominant_grade": 0,
+        "unified_equation_grades": 4,
+        "cycle": "final"
+      },
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 5,
+          "anomalies": 2
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 2
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 2
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 2
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 2
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 2
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 2
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 2
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 40,
+          "anomalies": 1
+        },
+        {
+          "cycle": 40,
+          "anomalies": 1
+        },
+        {
+          "cycle": 43,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        }
+      ],
+      "stats_timeline": [
+        {
+          "step": 17,
+          "num_shapes": 33,
+          "grade_distribution": {
+            "0": 18,
+            "1": 5,
+            "2": 10
+          },
+          "avg_magnitude": 0.48484848484848486,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -4.84848524940786e-11,
+          "num_anomalies": 8,
+          "num_grade_transitions": 8,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 0
+        },
+        {
+          "step": 96,
+          "num_shapes": 112,
+          "grade_distribution": {
+            "0": 96,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.15613984088894897,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 14,
+          "num_grade_transitions": 14,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 5
+        },
+        {
+          "step": 166,
+          "num_shapes": 182,
+          "grade_distribution": {
+            "0": 166,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.0960860559316609,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 10
+        },
+        {
+          "step": 234,
+          "num_shapes": 250,
+          "grade_distribution": {
+            "0": 234,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.06995064871824914,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 15
+        },
+        {
+          "step": 310,
+          "num_shapes": 326,
+          "grade_distribution": {
+            "0": 310,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.05364313552012971,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 20
+        },
+        {
+          "step": 386,
+          "num_shapes": 402,
+          "grade_distribution": {
+            "0": 386,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.043501647212841506,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 25
+        },
+        {
+          "step": 455,
+          "num_shapes": 471,
+          "grade_distribution": {
+            "0": 455,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.037128794436437976,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 30
+        },
+        {
+          "step": 527,
+          "num_shapes": 543,
+          "grade_distribution": {
+            "0": 527,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.03220563937304288,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 35
+        },
+        {
+          "step": 606,
+          "num_shapes": 622,
+          "grade_distribution": {
+            "0": 606,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.028115212507334862,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 40
+        },
+        {
+          "step": 684,
+          "num_shapes": 700,
+          "grade_distribution": {
+            "0": 684,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.024982374542231837,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 45
+        },
+        {
+          "step": 742,
+          "num_shapes": 758,
+          "grade_distribution": {
+            "0": 742,
+            "1": 5,
+            "2": 10,
+            "3": 1
+          },
+          "avg_magnitude": 0.023070794432140218,
+          "max_magnitude": 1.4876621795622873,
+          "avg_grade_entropy": NaN,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 49
+        }
+      ]
+    },
+    {
+      "dim": 6,
+      "final_stats": {
+        "step": 721,
+        "num_shapes": 743,
+        "grade_distribution": {
+          "0": 722,
+          "1": 6,
+          "2": 15
+        },
+        "avg_magnitude": 0.029609690444145357,
+        "max_magnitude": 1.0,
+        "avg_grade_entropy": -2.9609692892581644e-12,
+        "num_anomalies": 19,
+        "num_grade_transitions": 19,
+        "dominant_grade": 0,
+        "unified_equation_grades": 3,
+        "cycle": "final"
+      },
+      "anomaly_timeline": [
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 2
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 0,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 1,
+          "anomalies": 1
+        },
+        {
+          "cycle": 1,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 2,
+          "anomalies": 2
+        },
+        {
+          "cycle": 2,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 2
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 3,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 2
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 4,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 5,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 2
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 6,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 2
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 2
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 7,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 2
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 2
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 8,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 2
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 2
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 9,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 2
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 10,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 11,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 12,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 13,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 14,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 15,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 16,
+          "anomalies": 2
+        },
+        {
+          "cycle": 16,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 2
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 17,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 2
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 18,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 19,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 20,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 21,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 22,
+          "anomalies": 2
+        },
+        {
+          "cycle": 22,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 2
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 23,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 2
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 24,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 2
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 25,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 26,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 27,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 28,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 29,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 30,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 31,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 32,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 33,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 34,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 35,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 36,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 37,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 38,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 39,
+          "anomalies": 1
+        },
+        {
+          "cycle": 40,
+          "anomalies": 1
+        },
+        {
+          "cycle": 40,
+          "anomalies": 1
+        },
+        {
+          "cycle": 41,
+          "anomalies": 1
+        },
+        {
+          "cycle": 42,
+          "anomalies": 1
+        },
+        {
+          "cycle": 42,
+          "anomalies": 1
+        },
+        {
+          "cycle": 42,
+          "anomalies": 1
+        },
+        {
+          "cycle": 43,
+          "anomalies": 1
+        },
+        {
+          "cycle": 43,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 44,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 45,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 46,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 47,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 48,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        },
+        {
+          "cycle": 49,
+          "anomalies": 1
+        }
+      ],
+      "stats_timeline": [
+        {
+          "step": 16,
+          "num_shapes": 38,
+          "grade_distribution": {
+            "0": 17,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.5789473684210527,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -5.789474162944253e-11,
+          "num_anomalies": 9,
+          "num_grade_transitions": 9,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 0
+        },
+        {
+          "step": 92,
+          "num_shapes": 114,
+          "grade_distribution": {
+            "0": 93,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.19298245614035087,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.9298247209814175e-11,
+          "num_anomalies": 15,
+          "num_grade_transitions": 15,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 5
+        },
+        {
+          "step": 158,
+          "num_shapes": 180,
+          "grade_distribution": {
+            "0": 159,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.12222222222222222,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -1.2222223232882311e-11,
+          "num_anomalies": 17,
+          "num_grade_transitions": 17,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 10
+        },
+        {
+          "step": 229,
+          "num_shapes": 251,
+          "grade_distribution": {
+            "0": 230,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.08764940239043825,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -8.764940963819984e-12,
+          "num_anomalies": 17,
+          "num_grade_transitions": 17,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 15
+        },
+        {
+          "step": 305,
+          "num_shapes": 327,
+          "grade_distribution": {
+            "0": 306,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.0672782874617737,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -6.727829302504025e-12,
+          "num_anomalies": 18,
+          "num_grade_transitions": 18,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 20
+        },
+        {
+          "step": 370,
+          "num_shapes": 392,
+          "grade_distribution": {
+            "0": 371,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.05612244897959184,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -5.6122453620377965e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 25
+        },
+        {
+          "step": 447,
+          "num_shapes": 469,
+          "grade_distribution": {
+            "0": 448,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.046908315565031986,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -4.690831944389799e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 30
+        },
+        {
+          "step": 519,
+          "num_shapes": 541,
+          "grade_distribution": {
+            "0": 520,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.04066543438077634,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -4.0665437743416195e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 35
+        },
+        {
+          "step": 590,
+          "num_shapes": 612,
+          "grade_distribution": {
+            "0": 591,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.03594771241830065,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -3.5947715390830328e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 40
+        },
+        {
+          "step": 656,
+          "num_shapes": 678,
+          "grade_distribution": {
+            "0": 657,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.032448377581120944,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -3.244838026428932e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 45
+        },
+        {
+          "step": 721,
+          "num_shapes": 743,
+          "grade_distribution": {
+            "0": 722,
+            "1": 6,
+            "2": 15
+          },
+          "avg_magnitude": 0.029609690444145357,
+          "max_magnitude": 1.0,
+          "avg_grade_entropy": -2.9609692892581644e-12,
+          "num_anomalies": 19,
+          "num_grade_transitions": 19,
+          "dominant_grade": 0,
+          "unified_equation_grades": 0,
+          "cycle": 49
+        }
+      ]
+    }
+  ]
+}
